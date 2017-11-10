@@ -17,10 +17,10 @@ const tabOptions = {
   swipeEnabled: true,
   animationEnabled: true,
   tabBarOptions: {
-    activeTintColor: '#fff',
-    activeBackgroundColor: '#1a1a1a',
+    activeTintColor: '#083352',
+    inactiveTintColor: '#cfedff',
     labelStyle: {
-      fontSize: 16,
+      fontSize: 20,
     },
   },
 };
